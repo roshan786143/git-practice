@@ -1,3 +1,2 @@
 hello from apple
-hello from Microsoft
-hello from ( amazon )
+
